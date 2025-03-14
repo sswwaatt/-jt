@@ -1,0 +1,3 @@
+python-telegram-bot==20.1
+yt-dlp==2023.12.31
+moviepy==2.1.2
